@@ -26,8 +26,6 @@ def is_palindrome():
 
 is_palindrome()
 
-#go back and rework through this code to do it with a for loop
-
 # Prime or Not
 
 def is_prime():
